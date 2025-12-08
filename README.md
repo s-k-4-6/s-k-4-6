@@ -1,18 +1,111 @@
-# 💫 About Me:
-Email : sarankarthikparthipan@gmail.com LinkedIn: www.linkedin.com/in/sarankarthik46<br>Mobile: +91-9840182516 GitHub: s-k-46(saran-k)<br>Portfolio : https://saran-karthik-ps.vercel.app/<br>ABOUT<br>Aspiring Associate Software Engineer with a strong foundation in Python Full Stack Development, including Django,<br>SQL. Trained in Agile methodologies, software development life cycle (SDLC). Eager to contribute to both<br>development and quality assurance by building scalable web applications and ensuring high-performing, bug-free<br>software in collaborative, fast-paced teams.<br>EDUCATION<br>• Bachelor of Engineering (Computer Science and Engineering)<br>Panimalar Institute of Technology, Chennai. July 2020 – 2024<br>GPA: 7.89<br>• HigherSecondary Education(12th Grade)<br>SriSankaraVidyalaya Matriculation HigherSecondarySchool.<br><br>Mar 2019 – 2020<br><br>• Secondary School Leaving Certificate (10th Grade)<br>SriSankara Vidyalaya Matriculation Higher SecondarySchool Mar 2017 – 2018<br>TECHNICAL SKILLS<br>• Languages: Python<br>• Web Development: Html, CSS<br>• Development Methodologies: SDLC, Agile Methodologies<br>• Frameworks: Django<br>• Databases: SQL<br>• SoftSkills: Teamwork, Time Management, Adaptability, Accountability, Problem Solving.<br>INTERNSHIPEXPERIENCE<br>RAAGAA Value Add Technologies Pvt Ltd, Chennai. July 2025– oct 2025<br>➢ Badminton Membership Chatbot using ai integration:<br>Developed an AI-powered badminton membership chatbot using HTML, CSS, and OpenAI API with GPay<br>integration, email confirmation, and MySQL chat storage for a seamless registration experience.<br>➢ Pickleball Object Detection System using YOLOv11:<br>Built a Pickleball object detection system using YOLOv11 to track bat, ball, and players in real time, with<br>video analytics and annotated result exports for improved accuracy and insights.<br>➢ Webpage Development using WordPressBlock Editor and Plugins:<br>Designed and developed a responsive WordPress site using Gutenberg with interactive layouts,<br>modern UI, and customized plugins for tab navigation, image display, and smooth content transitions.<br><br>PROJECTS<br>➢ Role of explainable AIinhealthcare:<br>Explored Explainable AI (XAI) to enhance transparency, trust, and clinical decision-making in healthcare,<br>making AI models more interpretable, accountable, and compliant.<br>Technologies Used:Python, Decision Trees, HTML, CSS, JavaScript.<br>➢ Data Leakage Detection Using Cloud Computing:<br>Implemented a secure system that tracked data access anomalies, reducing unauthorized access incidents by<br>40%.<br>Technologies Used:PHP, JavaScript, HTML, CSS, Cloud Computing<br><br>CERTIFICATIONS<br>• Python Full Stack Development Course- Qspiders (Aug 2024)<br>• Cloud Computing Internship — DLK Tech (Aug 2022)<br>• Certified in Java Development course at Greens Technology (Oct 2023)<br>• Business Intelligence Using Power BI — Skill Nation
+<h1 align="center">Hi 👋, I'm Saran Karthik PS</h1>
+<h3 align="center">Aspiring Associate Software Engineer | Python Full Stack | AI & Automation Enthusiast</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarankarthik46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarankarthikparthipan@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=s-k-4-6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=s-k-4-6&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-4-6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🌐 Portfolio: **https://saran-karthik-ps.vercel.app/**  
+📫 Email: **sarankarthikparthipan@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/sarankarthik46**  
+💻 GitHub: **s-k-46**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=s-k-4-6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+I am an **Aspiring Associate Software Engineer** with hands-on experience in **Python Full Stack Development, AI Integration, Django, SQL, and Automation**.  
+I enjoy building **intelligent systems**, **AI chatbots**, **video analytics tools**, and **scalable web applications**.
+
+I combine **development + testing** knowledge to create high-quality, bug-free software.  
+Always excited to learn, solve problems, and contribute to impactful projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+- Python  
+- JavaScript  
+- HTML, CSS  
+- PHP  
+
+### **Frameworks & Tools**
+- Django  
+- WordPress (Gutenberg/Plugins)  
+- YOLO (Object Detection)  
+- SDLC, Agile  
+
+### **Databases**
+- MySQL  
+- SQL  
+
+### **Soft Skills**
+Teamwork • Time Management • Adaptability • Accountability • Problem Solving
+
+---
+
+## 🚀 Internships & Work Experience
+
+### **RAAGAA Value Add Technologies Pvt Ltd** — *Jul 2025 – Oct 2025*
+**1️⃣ Badminton Membership Chatbot (AI + Payments + Automation)**  
+- Built an AI-powered membership chatbot using **HTML, CSS, JavaScript, OpenAI API**  
+- Integrated **GPay payment**, **email confirmation**, and **MySQL storage**  
+- Improved user onboarding with smart conversation flows  
+
+**2️⃣ Pickleball Object Detection using YOLOv11**  
+- Built real-time detection for **bat, ball, and players**  
+- Exported **annotated videos + analytics** for performance insights  
+
+**3️⃣ WordPress Web Development**  
+- Developed responsive pages using **Gutenberg Block Editor**  
+- Created smooth UI interactions with plugins, animations, and tab navigation  
+
+---
+
+## 📌 Projects
+
+### 🔍 **Explainable AI in Healthcare**
+- Built interpretable ML models to increase **trust, transparency, and accountability**  
+- Used: Python, Decision Trees, HTML, CSS, JavaScript  
+
+### ☁️ **Data Leakage Detection Using Cloud Computing**
+- Designed a system to detect unauthorized access patterns  
+- Reduced risk by **40%** through secure cloud-based tracking  
+- Tech: PHP, JavaScript, HTML, CSS, Cloud Environment  
+
+---
+
+## 🏅 Certifications
+- Python Full Stack Development — QSpiders (2024)  
+- Cloud Computing Internship — DLK Tech (2022)  
+- Java Development — Greens Technology (2023)  
+- Business Intelligence Using Power BI — Skill Nation (2024)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=tokyonight" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sarankarthik46" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sarankarthikparthipan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://saran-karthik-ps.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**

@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Email : sarankarthikparthipan@gmail.com LinkedIn: www.linkedin.com/in/sarankarthik46<br>Mobile: +91-9840182516 GitHub: s-k-46(saran-k)<br>Portfolio : https://saran-karthik-ps.vercel.app/<br>ABOUT<br>Aspiring Associate Software Engineer with a strong foundation in Python Full Stack Development, including Django,<br>SQL. Trained in Agile methodologies, software development life cycle (SDLC). Eager to contribute to both<br>development and quality assurance by building scalable web applications and ensuring high-performing, bug-free<br>software in collaborative, fast-paced teams.<br>EDUCATION<br>• Bachelor of Engineering (Computer Science and Engineering)<br>Panimalar Institute of Technology, Chennai. July 2020 – 2024<br>GPA: 7.89<br>• HigherSecondary Education(12th Grade)<br>SriSankaraVidyalaya Matriculation HigherSecondarySchool.<br><br>Mar 2019 – 2020<br><br>• Secondary School Leaving Certificate (10th Grade)<br>SriSankara Vidyalaya Matriculation Higher SecondarySchool Mar 2017 – 2018<br>TECHNICAL SKILLS<br>• Languages: Python<br>• Web Development: Html, CSS<br>• Development Methodologies: SDLC, Agile Methodologies<br>• Frameworks: Django<br>• Databases: SQL<br>• SoftSkills: Teamwork, Time Management, Adaptability, Accountability, Problem Solving.<br>INTERNSHIPEXPERIENCE<br>RAAGAA Value Add Technologies Pvt Ltd, Chennai. July 2025– oct 2025<br>➢ Badminton Membership Chatbot using ai integration:<br>Developed an AI-powered badminton membership chatbot using HTML, CSS, and OpenAI API with GPay<br>integration, email confirmation, and MySQL chat storage for a seamless registration experience.<br>➢ Pickleball Object Detection System using YOLOv11:<br>Built a Pickleball object detection system using YOLOv11 to track bat, ball, and players in real time, with<br>video analytics and annotated result exports for improved accuracy and insights.<br>➢ Webpage Development using WordPressBlock Editor and Plugins:<br>Designed and developed a responsive WordPress site using Gutenberg with interactive layouts,<br>modern UI, and customized plugins for tab navigation, image display, and smooth content transitions.<br><br>PROJECTS<br>➢ Role of explainable AIinhealthcare:<br>Explored Explainable AI (XAI) to enhance transparency, trust, and clinical decision-making in healthcare,<br>making AI models more interpretable, accountable, and compliant.<br>Technologies Used:Python, Decision Trees, HTML, CSS, JavaScript.<br>➢ Data Leakage Detection Using Cloud Computing:<br>Implemented a secure system that tracked data access anomalies, reducing unauthorized access incidents by<br>40%.<br>Technologies Used:PHP, JavaScript, HTML, CSS, Cloud Computing<br><br>CERTIFICATIONS<br>• Python Full Stack Development Course- Qspiders (Aug 2024)<br>• Cloud Computing Internship — DLK Tech (Aug 2022)<br>• Certified in Java Development course at Greens Technology (Oct 2023)<br>• Business Intelligence Using Power BI — Skill Nation
 
-<!--
-**s-k-4-6/s-k-4-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarankarthik46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarankarthikparthipan@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=s-k-4-6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=s-k-4-6&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-4-6&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=s-k-4-6&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

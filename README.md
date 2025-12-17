@@ -1,5 +1,5 @@
 <p align="center">
- font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saran+Karthik+PS+👋;Aspiring+Software+Engineer;Python+Full+Stack+Developer;AI+%26+Automation+Enthusiast;Turning+Ideas+into+Real+World+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Saran+Karthik+PS+👋;Aspiring+Software+Engineer;Python+Full+Stack+Developer;AI+%26+Automation+Enthusiast" />
 </p>
 
 <p align="center">
@@ -16,94 +16,84 @@
 
 ---
 
-## 👋 About Me
-🚀 **Aspiring Associate Software Engineer** with strong hands-on experience in  
-**Python Full Stack Development, AI Integration, Django, SQL, and Automation**.
+## 👨‍💻 About Me
+I am an **Aspiring Associate Software Engineer** with practical experience in  
+**Python Full Stack Development, Django, SQL, and AI integration**.
 
-I love building:
-- 🤖 Intelligent AI chatbots  
-- 🎥 Real-time object detection systems  
-- 🌐 Scalable, user-friendly web applications  
+I enjoy developing **AI-powered chatbots**, **object detection systems**, and  
+**scalable web applications** with a focus on clean code and usability.
 
-💡 I focus on **clean code, performance, and real-world usability**, combining both **development and quality mindset**.
-
----
-
-## 💡 What Makes Me Stand Out
-✔ Real internship experience (not just courses)  
-✔ AI + Full Stack + Automation combination  
-✔ Payment & email integrated applications  
-✔ Strong SDLC & Agile understanding  
-✔ Fresher with production-style projects  
+I bring a strong understanding of **SDLC and Agile practices** and aim to deliver  
+high-quality, reliable, and maintainable software.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,php,mysql,git,github,wordpress" />
-</p>
-
----
-
-## 🚀 Experience
-
-### 🏢 **RAAGAA Value Add Technologies Pvt Ltd** *(Jul 2025 – Oct 2025)*
-
-#### 🏸 AI Badminton Membership Chatbot
-- OpenAI-powered intelligent chatbot  
-- GPay payment integration  
-- Email confirmation & MySQL chat storage  
-- Smooth, user-friendly onboarding experience  
-
-#### 🎾 Pickleball Object Detection (YOLOv11)
-- Real-time detection of bat, ball & players  
-- Video analytics with annotated exports  
-- Improved tracking accuracy & insights  
-
-#### 🌐 WordPress Web Development
-- Responsive websites using Gutenberg  
-- Custom plugins, animations & tab navigation  
-- Modern UI with smooth interactions  
+**Languages:** Python, JavaScript, HTML, CSS, PHP  
+**Frameworks & Tools:** Django, WordPress (Gutenberg), YOLO, Git  
+**Databases:** MySQL, SQL  
+**Methodologies:** SDLC, Agile  
+**Soft Skills:** Teamwork, Time Management, Adaptability, Problem Solving  
 
 ---
 
-## 📌 Projects
+## 💼 Internship Experience
 
-### 🔍 Explainable AI in Healthcare
-- Built interpretable ML models to improve **trust & transparency**  
+### **RAAGAA Value Add Technologies Pvt Ltd**  
+*July 2025 – October 2025*
+
+**AI Badminton Membership Chatbot**  
+- Developed an AI-powered chatbot using **HTML, CSS, JavaScript, and OpenAI API**  
+- Integrated **GPay payments**, **email confirmations**, and **MySQL storage**  
+- Improved the user onboarding experience through intelligent workflows  
+
+**Pickleball Object Detection System (YOLOv11)**  
+- Implemented real-time detection of **bat, ball, and players**  
+- Generated annotated videos and analytics for performance insights  
+
+**WordPress Web Development**  
+- Built responsive websites using **Gutenberg blocks and plugins**  
+- Implemented modern UI elements and smooth content transitions  
+
+---
+
+## 📌 Academic & Personal Projects
+
+**Explainable AI in Healthcare**  
+- Developed interpretable ML models to enhance transparency and trust  
 - Technologies: Python, Decision Trees, HTML, CSS, JavaScript  
 
-### ☁️ Data Leakage Detection Using Cloud Computing
-- Secure system to detect unauthorized access  
+**Data Leakage Detection Using Cloud Computing**  
+- Designed a system to monitor unauthorized data access  
 - Reduced data leakage risk by **40%**  
-- Technologies: PHP, JavaScript, HTML, CSS, Cloud  
+- Technologies: PHP, JavaScript, HTML, CSS, Cloud Computing  
 
 ---
 
 ## 🎓 Certifications
-- Python Full Stack Development — QSpiders  
-- Cloud Computing Internship — DLK Tech  
-- Java Development — Greens Technology  
-- Business Intelligence using Power BI — Skill Nation  
+- Python Full Stack Development — QSpiders (2024)  
+- Cloud Computing Internship — DLK Technologies (2022)  
+- Java Development — Greens Technology (2023)  
+- Business Intelligence using Power BI — Skill Nation (2024)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=react" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=react" height="165" />
 </p>
 
 ---
 
-## 🤝 Let’s Connect
-💼 Open to **Fresher / Entry-Level Software Engineer roles**  
-📬 Passionate about learning, building & growing in tech  
+## 🤝 Contact & Opportunities
+📌 Actively seeking **entry-level / fresher software engineer roles**  
+📬 Open to internships, full-time roles, and learning opportunities  
 
-⭐ *If you like my work, please consider starring my repositories!*
+⭐ *Thank you for visiting my profile. Feel free to explore my repositories!*

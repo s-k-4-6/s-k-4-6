@@ -1,112 +1,108 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saran+Karthik+PS;Aspiring+Associate+Software+Engineer;Python+Full+Stack+Developer;Building+AI-powered+and+scalable+applications" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Saran Karthik PS</h1>
-<h3 align="center">Aspiring Associate Software Engineer | Python Full Stack | AI & Automation Enthusiast</h3>
-
-🌐 Portfolio: **https://saran-karthik-ps.vercel.app/**  
-📫 Email: **sarankarthikparthipan@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/sarankarthik46**  
-💻 GitHub: **s-k-46**
+<p align="center">
+🌐 <a href="https://saran-karthik-ps.vercel.app/">Portfolio</a> •
+📫 <a href="mailto:sarankarthikparthipan@gmail.com">Email</a> •
+🔗 <a href="https://www.linkedin.com/in/sarankarthik46">LinkedIn</a> •
+💻 <a href="https://github.com/s-k-46">GitHub</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am an **Aspiring Associate Software Engineer** with hands-on experience in **Python Full Stack Development, AI Integration, Django, SQL, and Automation**.  
-I enjoy building **intelligent systems**, **AI chatbots**, **video analytics tools**, and **scalable web applications**.
+I am an **Aspiring Associate Software Engineer** with hands-on experience in building  
+**Python-based web applications, AI-powered systems, and automation solutions**.
 
-I combine **development + testing** knowledge to create high-quality, bug-free software.  
-Always excited to learn, solve problems, and contribute to impactful projects.
+I enjoy solving real-world problems through **clean code, intelligent systems, and scalable design**.  
+My interests include **AI chatbots, computer vision, and full-stack development**.
+
+I bring a strong understanding of **SDLC and Agile practices**, with a mindset focused on  
+**quality, performance, and continuous learning**.
+
+---
+
+## 💡 Why Hire Me?
+- ✔ Practical experience through real internship projects  
+- ✔ Strong Python Full Stack foundation with AI exposure  
+- ✔ Built applications with payments, automation, and databases  
+- ✔ Quick learner with strong problem-solving skills  
+- ✔ Fresher ready to contribute and grow in a professional environment  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- Python  
-- JavaScript  
-- HTML, CSS  
-- PHP  
-
-### **Frameworks & Tools**
-- Django  
-- WordPress (Gutenberg/Plugins)  
-- YOLO (Object Detection)  
-- SDLC, Agile  
-
-### **Databases**
-- MySQL  
-- SQL  
-
-### **Soft Skills**
-Teamwork • Time Management • Adaptability • Accountability • Problem Solving
+**Languages:** Python, JavaScript, HTML, CSS, PHP  
+**Frameworks & Tools:** Django, YOLO, WordPress (Gutenberg & Plugins)  
+**Databases:** MySQL, SQL  
+**Development Practices:** SDLC, Agile Methodology  
+**Soft Skills:** Teamwork, Time Management, Adaptability, Problem Solving  
 
 ---
 
-## 🚀 Internships & Work Experience
+## 💼 Internship Experience
 
-### **RAAGAA Value Add Technologies Pvt Ltd** — *Jul 2025 – Oct 2025*
-**1️⃣ Badminton Membership Chatbot (AI + Payments + Automation)**  
-- Built an AI-powered membership chatbot using **HTML, CSS, JavaScript, OpenAI API**  
-- Integrated **GPay payment**, **email confirmation**, and **MySQL storage**  
-- Improved user onboarding with smart conversation flows  
+### **RAAGAA Value Add Technologies Pvt Ltd**  
+*July 2025 – October 2025*
 
-**2️⃣ Pickleball Object Detection using YOLOv11**  
-- Built real-time detection for **bat, ball, and players**  
-- Exported **annotated videos + analytics** for performance insights  
+### 🏸 AI Badminton Membership Chatbot
+- Developed an AI-powered chatbot using **HTML, CSS, JavaScript, and OpenAI API**  
+- Integrated **GPay payment**, **email confirmation**, and **MySQL chat storage**  
+- Improved user onboarding through intelligent conversation workflows  
 
-**3️⃣ WordPress Web Development**  
-- Developed responsive pages using **Gutenberg Block Editor**  
-- Created smooth UI interactions with plugins, animations, and tab navigation  
+### 🎾 Pickleball Object Detection System (YOLOv11)
+- Designed a computer vision system to detect **pickleball, paddle, and players** in real time  
+- Applied YOLO for fast and accurate object detection  
+- Generated annotated videos and analytics for sports performance analysis  
+
+### 🌐 WordPress Web Development
+- Built responsive websites using **Gutenberg Block Editor and plugins**  
+- Implemented modern UI layouts, animations, and smooth content transitions  
 
 ---
 
 ## 📌 Projects
 
-### 🔍 **Explainable AI in Healthcare**
-- Built interpretable ML models to increase **trust, transparency, and accountability**  
-- Used: Python, Decision Trees, HTML, CSS, JavaScript  
+### 🔍 Explainable AI in Healthcare
+- Developed interpretable machine learning models to improve **transparency and trust**  
+- Focused on explainability for clinical decision support  
+- Technologies: Python, Decision Trees, HTML, CSS, JavaScript  
 
-### ☁️ **Data Leakage Detection Using Cloud Computing**
-- Designed a system to detect unauthorized access patterns  
-- Reduced risk by **40%** through secure cloud-based tracking  
-- Tech: PHP, JavaScript, HTML, CSS, Cloud Environment  
+### ☁️ Data Leakage Detection Using Cloud Computing
+- Designed a system to monitor and detect unauthorized data access  
+- Reduced data leakage risk by **40%**  
+- Technologies: PHP, JavaScript, HTML, CSS, Cloud Computing  
 
 ---
 
-## 🏅 Certifications
+## 🎓 Certifications
 - Python Full Stack Development — QSpiders (2024)  
 - Cloud Computing Internship — DLK Tech (2022)  
 - Java Development — Greens Technology (2023)  
-- Business Intelligence Using Power BI — Skill Nation (2024)  
+- Business Intelligence using Power BI — Skill Nation (2024)  
+
+---
+
+## 🚀 Current Status
+- 🎯 Actively seeking **entry-level / fresher software engineer opportunities**  
+- 📚 Continuously improving Python, AI, and problem-solving skills  
+- 🤝 Open to internships, full-time roles, and collaborations  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sarankarthik46" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:sarankarthikparthipan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://saran-karthik-ps.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</p>
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ *If my work interests you, feel free to explore my repositories and connect with me.*

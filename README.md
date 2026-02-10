@@ -1,38 +1,34 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Saran+Karthik+PS;Aspiring+Associate+Software+Engineer;Python+Full+Stack+Developer;Building+AI-powered+and+scalable+applications" />
-</p>
+# Hi, I’m Saran Karthik PS
 
-<p align="center">
-🌐 <a href="https://saran-karthik-ps.vercel.app/">Portfolio</a> •
-📫 <a href="mailto:sarankarthikparthipan@gmail.com">Email</a> •
-🔗 <a href="https://www.linkedin.com/in/sarankarthik46">LinkedIn</a> •
-💻 <a href="https://github.com/s-k-46">GitHub</a>
-</p>
+**Aspiring Associate Software Engineer** with hands-on experience in  
+**Python Full Stack Development, AI integration, and automation**.
 
----
-
-## 👨‍💻 About Me
-I am an **Aspiring Associate Software Engineer** with hands-on experience in building  
-**Python-based web applications, AI-powered systems, and automation solutions**.
-
-I enjoy solving real-world problems through **clean code, intelligent systems, and scalable design**.  
-My interests include **AI chatbots, computer vision, and full-stack development**.
-
-I bring a strong understanding of **SDLC and Agile practices**, with a mindset focused on  
-**quality, performance, and continuous learning**.
+🌐 Portfolio: https://saran-karthik-ps.vercel.app  
+📫 Email: sarankarthikparthipan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/sarankarthik46  
+💻 GitHub: https://github.com/s-k-46  
 
 ---
 
-## 💡 Why Hire Me?
-- ✔ Practical experience through real internship projects  
-- ✔ Strong Python Full Stack foundation with AI exposure  
-- ✔ Built applications with payments, automation, and databases  
-- ✔ Quick learner with strong problem-solving skills  
-- ✔ Fresher ready to contribute and grow in a professional environment  
+## About Me
+I am an aspiring software engineer focused on building **reliable, scalable, and intelligent applications** using Python and modern web technologies.
+
+I enjoy working on **AI-powered chatbots**, **computer vision systems**, and **full-stack web applications** that solve real-world problems.
+
+I bring a strong understanding of **SDLC and Agile methodologies**, with an emphasis on **clean code, performance, and continuous improvement**.
 
 ---
 
-## 🛠️ Tech Stack
+## Why Hire Me?
+- Practical experience through real internship projects  
+- Strong Python Full Stack foundation with AI exposure  
+- Experience building applications with payments, automation, and databases  
+- Quick learner with strong problem-solving skills  
+- Fresher ready to contribute and grow in a professional environment  
+
+---
+
+## Technical Skills
 
 **Languages:** Python, JavaScript, HTML, CSS, PHP  
 **Frameworks & Tools:** Django, YOLO, WordPress (Gutenberg & Plugins)  
@@ -42,42 +38,41 @@ I bring a strong understanding of **SDLC and Agile practices**, with a mindset f
 
 ---
 
-## 💼 Internship Experience
+## Internship Experience
 
-### **RAAGAA Value Add Technologies Pvt Ltd**  
+### RAAGAA Value Add Technologies Pvt Ltd  
 *July 2025 – October 2025*
 
-### 🏸 AI Badminton Membership Chatbot
-- Developed an AI-powered chatbot using **HTML, CSS, JavaScript, and OpenAI API**  
-- Integrated **GPay payment**, **email confirmation**, and **MySQL chat storage**  
+**AI Badminton Membership Chatbot**  
+- Developed an AI-powered chatbot using OpenAI API  
+- Integrated GPay payments, email confirmations, and MySQL storage  
 - Improved user onboarding through intelligent conversation workflows  
 
-### 🎾 Pickleball Object Detection System (YOLOv11)
-- Designed a computer vision system to detect **pickleball, paddle, and players** in real time  
+**Pickleball Object Detection System (YOLOv11)**  
+- Designed a computer vision system to detect pickleball, paddle, and players in real time  
 - Applied YOLO for fast and accurate object detection  
 - Generated annotated videos and analytics for sports performance analysis  
 
-### 🌐 WordPress Web Development
-- Built responsive websites using **Gutenberg Block Editor and plugins**  
-- Implemented modern UI layouts, animations, and smooth content transitions  
+**WordPress Web Development**  
+- Built responsive websites using Gutenberg blocks and plugins  
+- Implemented modern UI layouts and smooth content transitions  
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🔍 Explainable AI in Healthcare
-- Developed interpretable machine learning models to improve **transparency and trust**  
-- Focused on explainability for clinical decision support  
+**Explainable AI in Healthcare**  
+- Developed interpretable machine learning models to improve transparency and trust  
 - Technologies: Python, Decision Trees, HTML, CSS, JavaScript  
 
-### ☁️ Data Leakage Detection Using Cloud Computing
-- Designed a system to monitor and detect unauthorized data access  
-- Reduced data leakage risk by **40%**  
+**Data Leakage Detection Using Cloud Computing**  
+- Designed a system to detect unauthorized data access  
+- Reduced data leakage risk by 40 percent  
 - Technologies: PHP, JavaScript, HTML, CSS, Cloud Computing  
 
 ---
 
-## 🎓 Certifications
+## Certifications
 - Python Full Stack Development — QSpiders (2024)  
 - Cloud Computing Internship — DLK Tech (2022)  
 - Java Development — Greens Technology (2023)  
@@ -85,24 +80,11 @@ I bring a strong understanding of **SDLC and Agile practices**, with a mindset f
 
 ---
 
-## 🚀 Current Status
-- 🎯 Actively seeking **entry-level / fresher software engineer opportunities**  
-- 📚 Continuously improving Python, AI, and problem-solving skills  
-- 🤝 Open to internships, full-time roles, and collaborations  
+## Current Status
+- Actively seeking entry-level or fresher software engineer roles  
+- Continuously improving Python, AI, and problem-solving skills  
+- Open to internships, full-time roles, and collaborations  
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-k-46&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-k-46&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-k-46&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
-⭐ *If my work interests you, feel free to explore my repositories and connect with me.*
+Thank you for visiting my profile. Feel free to explore my repositories and connect with me.

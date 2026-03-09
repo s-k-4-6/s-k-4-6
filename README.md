@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saran Karthik PS</h1>
-<h3 align="center">Aspiring Software Engineer | Python Full Stack Developer </h3>
+<h3 align="center">Aspiring Software Engineer | Python Full Stack Developer | AI & Automation Enthusiast </h3>
 
 <p align="center">
 <a href="https://saran-karthik-ps.vercel.app/">Portfolio</a> •

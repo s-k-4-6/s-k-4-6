@@ -44,7 +44,7 @@ MySQL • SQL
 
 ### RAAGAA Value Add Technologies Pvt Ltd
 
-**Jul 2025 – Oct 2025**
+**Jun 2025 – Oct 2025**
 
 **AI Badminton Membership Chatbot**
 
